@@ -1,6 +1,5 @@
 using System;
 
-
 public class Arthoperation
 {
 public static void Main()

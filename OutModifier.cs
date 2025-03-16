@@ -4,7 +4,7 @@ public class OutModifier
 {
     static void Pass(int a,int b,out int x,out int y)
     {
-        x = a;| // x is assigned the value of a
+        x = a;// x is assigned the value of a
         y = b; // y is assigned the value of b
     }
     static void Main()

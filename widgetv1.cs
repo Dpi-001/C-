@@ -2,6 +2,9 @@
 
 namespace Widgets
 {
-    public class Widget{}
+    public class Widget{
+
+ 
+    }
 }
 

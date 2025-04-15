@@ -12,12 +12,8 @@ namespace Outer
     {
         class Displayclass
         {
-            public void display()
-            {
-                Console.WriteLine("Inner display method");
-            }
-        }
-    }
+
+
 }
 
 class Program
